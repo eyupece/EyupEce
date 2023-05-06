@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences https://read.cv/eyupece
 
+- 👨‍💻 For my Turkish c++ notes https://bit.ly/eyupcppnotes
+                                                                                                                             
 - ⚡ Fun fact **I'm a hardworking and fun-loving person who likes to research and learn.**
 
 
