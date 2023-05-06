@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
 <h3 align="center">I'm a 1st year computer engineering student in Turkey.</h3> 
-<img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477uds6jamo5pqhn5ljjahigeoyxncsdsbpu6hqg7g&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src=https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupece&label=Profile%20views&color=8ac125&style=flat" alt="eyupece" /> </p>
 
