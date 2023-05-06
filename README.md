@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eceeyupp@gmail.com**
 
-- 📄 Know about my experiences [https://l24.im/Za0bYi8](https://l24.im/Za0bYi8)
+- 📄 Know about my experiences https://read.cv/eyupece
 
 - ⚡ Fun fact **I'm a hardworking and fun-loving person who likes to research and learn.**
 
