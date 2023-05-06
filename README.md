@@ -1,4 +1,3 @@
-[![MasterHead](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/73401/23cb7b5f78294987ab6b1eabee9ed9f7/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/7.png?token-time=1685836800&token-hash=xBfory3QLzDQqYPimhfmBAoSMW_hd4qTWx2u0Qm2UAY%3D)](https://twitter.com/eyupece_)
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
 <h3 align="center">I'm a 1st year computer engineering student in Turkey.</h3> 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg2NzU3NmIwZjExNjkyODQwNmZjM2VmNWY4NGQ5ODNkNGYyNTdiNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
