@@ -16,11 +16,15 @@
 - ⚡ Fun fact **I'm a hardworking and fun-loving person who likes to research and learn.**
 
 
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupece" alt="eyupece" /></a> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
