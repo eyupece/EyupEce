@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg2NzU3NmIwZjExNjkyODQwNmZjM2VmNWY4NGQ5ODNkNGYyNTdiNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupece&label=Profile%20views&color=8ac125&style=flat" alt="eyupece" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupece" alt="eyupece" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/eyupece_" target="blank"><img src="https://img.shields.io/twitter/follow/eyupece_?logo=twitter&style=for-the-badge" alt="eyupece_" /></a> </p>
 
 - 🌱 I’m currently learning **c++**
@@ -17,6 +14,13 @@
 - 📄 Know about my experiences [https://l24.im/Za0bYi8](https://l24.im/Za0bYi8)
 
 - ⚡ Fun fact **I'm a hardworking and fun-loving person who likes to research and learn.**
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupece" alt="eyupece" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
