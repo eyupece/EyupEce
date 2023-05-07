@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 📝 I occasionally write articles [https://medium.com/@eyupece](https://medium.com/@eyupece)
-
+- 👨‍💻 For my Turkish c++ notes https://bit.ly/eyupcppnotes                                                                                    
+                                                                                         
 - 📫 How to reach me **eceeyupp@gmail.com**
 
 - 📄 Know about my experiences https://read.cv/eyupece
 
-- 👨‍💻 For my Turkish c++ notes https://bit.ly/eyupcppnotes
-                                                                                                                             
+- 📝 I occasionally write articles [https://medium.com/@eyupece](https://medium.com/@eyupece)                    
+
 - ⚡ Fun fact **I'm a hardworking and fun-loving person who likes to research and learn.**
 
 
