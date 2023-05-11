@@ -26,7 +26,7 @@
                                                                                                                                    
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyupece" alt="eyupece" /></a> </p>
+<p align="left"> <a href="https://github.com/eyupece"><img src="https://github-profile-trophy.vercel.app/?username=eyupece" alt="eyupece" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
