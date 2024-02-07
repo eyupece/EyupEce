@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupece&label=Profile%20views&color=8ac125&style=flat" alt="eyupece" /> </p>
 
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 For my Turkish c++ notes https://bit.ly/eyupcppnotes                                                                                    
                                                                                          
