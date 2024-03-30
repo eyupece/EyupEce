@@ -11,7 +11,7 @@
                                                                                          
 - 📫 How to reach me **eceeyupp@gmail.com**
 
-- 📄 Know about my experiences [Download CV](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5e3aae3a-1adb-4f7c-930c-709d591b8f32)
+- 📄 Know about my experiences [See My Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5e3aae3a-1adb-4f7c-930c-709d591b8f32)
 
 
 - 📝 I occasionally write articles [https://medium.com/@eyupece](https://medium.com/@eyupece)                    
