@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyupece&label=Profile%20views&color=8ac125&style=flat" alt="eyupece" /> </p>
 
 
-- 🌱 I’m currently learning **C#**                                                                                   
+- 🌱 I’m currently learning **C# & React.js**                                                                                   
                                                                                          
 - 📫 How to reach me **eceeyupp@gmail.com**
 
-- 📄 Know about my experiences [See My Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:5e3aae3a-1adb-4f7c-930c-709d591b8f32)
+- 📄 Know about my experiences [See My Resume](https://drive.google.com/file/d/1xJ2SRqLTgFzLG8L4imYUdpQNYiR51nay/view?usp=sharing)
 
 
 - 📝 I occasionally write articles [https://medium.com/@eyupece](https://medium.com/@eyupece)                    
